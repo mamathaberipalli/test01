@@ -2,7 +2,5 @@ class test
 { 
 print "hello";
 
-using for stash
-
-dnewlies
+using for stash 
 }
