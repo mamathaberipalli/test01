@@ -1,4 +1,6 @@
 class test
 { 
-print "hello"
+print "hello";
+
+using for stash 
 }
