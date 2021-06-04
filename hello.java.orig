@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+class test  #dev3
+=======
+class test  #dev1
+>>>>>>> ef644927cda63f71c5c38b93a9ee6ad7fb9774fb
+{ 
+public static voind main() #dev2
+{
+	system.prinln(" hello  ima there " ); #dev3
+}
+ 
+}
