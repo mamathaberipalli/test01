@@ -1,6 +1,8 @@
 class test
 { 
-print "hello";
-
-using for stash 
+public static voind main()
+{
+	system.prinln(" hello  ima there " );
+}
+ 
 }
